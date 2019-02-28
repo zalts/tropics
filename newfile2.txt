@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+This is funnnnnnn 
+Sooo
+Funnnn
+Weeeeeeeee
+=======
+hello
+how are you?
+>>>>>>> 58d6731ff829547e3f7ab13241f749984c9d3a9a
+
